@@ -48,7 +48,7 @@ const A_funcs = {
     return true
   },
   ticketmaxnum: async () => {
-    const ticketmaxnum = 6
+    const ticketmaxnum = 70
     console.log(`Ticketmaxnum entry is ${ticketmaxnum}`)
     return parseInt(ticketmaxnum)
   },
